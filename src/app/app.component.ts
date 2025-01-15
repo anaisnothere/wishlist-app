@@ -14,9 +14,9 @@ const filters = [
 })
 export class AppComponent {
   items : WishItem[] = [
-    new WishItem('Learn Angular'),
-    new WishItem('Get Coffee', true),
-    new WishItem('Find grass that cuts itself')
+    new WishItem('sa iau examenul'),
+    new WishItem('sa beau cafea', true),
+    new WishItem('sa merg la concert')
   ];
 
   listFilter : any = '0';
